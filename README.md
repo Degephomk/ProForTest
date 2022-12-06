@@ -1,12 +1,14 @@
 # ProForTest
 Start server for backend
-cd server
-npm install
-npm start
+*********************
+1. cd server
+2. npm install
+3. npm start
 
 
 Start Web server for client
+**************************
 
-client
-npm install
-npm start
+1. cd client
+2. npm install
+3. npm start
